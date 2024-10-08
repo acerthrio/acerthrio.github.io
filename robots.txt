@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acerthrio.github.io/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/app/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/assets/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/css/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/data/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/includes/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/item/sitemap.html.gz
+Sitemap: https://acerthrio.github.io/src/sitemap.html.gz
